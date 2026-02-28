@@ -4,6 +4,9 @@ A personal website introducing Taiwan through a local's perspective — its stre
 
 Built as my first HTML + CSS project for the Web Application Development course at University College Dublin.
 
+Website:
+https://nancyuning.github.io/Taiwan-Travel-Guide-Web-page/
+
 ---
 
 ## Motivation
